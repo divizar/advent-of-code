@@ -1,0 +1,23 @@
+# Build files
+*.out
+*.o
+*.exe
+/build/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Advent of Code inputs (private)
+**/input.txt
+
